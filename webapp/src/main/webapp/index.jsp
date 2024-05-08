@@ -7,4 +7,6 @@
 <h1> We sell ladies shoes - $1,000 <h1>
 
 <h1> We sell men's shoe - $8000 <h1>
+		
+<h1> We will be opening a new clothen line in Dayton <h1>
 
