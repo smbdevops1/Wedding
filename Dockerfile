@@ -2,5 +2,5 @@
 From tomcat
 
 # Maintainer 
-MAINTAINER "Isaac" 
+LABEL "Samuel Mbir-Bondzie" 
 COPY ./webapp/target/webapp.war /usr/local/tomcat/webapps
