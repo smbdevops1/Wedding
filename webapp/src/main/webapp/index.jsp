@@ -10,6 +10,7 @@
 		
 <h1> We will be opening a new clothen line in Dayton <h1>
 
+
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="https://schema.org/Article">
   <head>
@@ -91,3 +92,4 @@
 </div>
   </body>
 </html>
+
