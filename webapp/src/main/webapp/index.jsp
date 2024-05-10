@@ -1,12 +1,4 @@
-<h1>Welcome To Class P Clothen Page <h1> 
-
-<h1> We sell shoes here <h1>
-
-<h1> We sell ladies shoes - $1,000 <h1>
-
-<h1> We sell men's shoe - $8000 <h1>
-		
-<h1> We will be opening a new clothen line in Dayton <h1>
+<h1> We will be opening a new Cafe in Dayton <h1>
 
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="https://schema.org/Article">
