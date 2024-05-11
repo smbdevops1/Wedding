@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:latest
+From docker.io/tomcat:latest
 
 # Maintainer 
 # MAINTAINER "Samuel Mbir-Bondzie"
