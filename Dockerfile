@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat
+From tomcat:latest
 
 # Maintainer 
 # MAINTAINER "Samuel Mbir-Bondzie"
