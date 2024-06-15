@@ -1,13 +1,13 @@
-<h1> Exploring New Furniture Line <h1>
+<h1> This is our new furniture line <h1>
 
 <!DOCTYPE html>
 <html lang="en" itemscope itemtype="https://schema.org/Article">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.tooplate.com/live/2137_barista_cafe" />
-    <title>Barista Cafe - Live View</title>
-    <meta name="description" content="Live viewing of Barista Cafe HTML CSS template - Tooplate.com">
+    <link rel="canonical" href="https://www.tooplate.com/live/2133_moso_interior" />
+    <title>Moso Interior - Live View</title>
+    <meta name="description" content="Live viewing of Moso Interior HTML CSS template - Tooplate.com">
     <meta name="author" content="tooplate">
     <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -72,7 +72,7 @@
 
   <body>
         <div id="live-view">
-        <iframe style="display: block; position: absolute; width: 100%; height: 100%;" width="100%" height="100%" frameborder="0" src="https://www.tooplate.com/templates/2137_barista_cafe"></iframe>
+        <iframe style="display: block; position: absolute; width: 100%; height: 100%;" width="100%" height="100%" frameborder="0" src="https://www.tooplate.com/templates/2133_moso_interior"></iframe>
 </div>
 <div id="tooplate.com_970x90_anchor">
     <script>
